@@ -1,0 +1,11 @@
+c9caf7c5c5a7c72971e93382a5fcb529 *DESCRIPTION
+73af01c5efe01105483e3fe67e639246 *LICENSE
+7b72ff570e9730d89fe0292cf6df9dd3 *NAMESPACE
+7876ad05e2494b7ead7e7fea6b2b1af5 *NEWS.md
+52fe33353475467dd624dde8905bc46d *R/shapboost_estimator.R
+5d734f3a1f2bc3d4df018463cc422a52 *R/shapboost_regressor.R
+45e13b54160a98439f4f22a6cb6de92e *R/shapboost_survival.R
+a99075b350847ecc1ea53b9fa36c3db0 *README.md
+ff99a7c375478aebef63b6fddea54ccf *man/SHAPBoostEstimator-class.Rd
+2c27075522de97d95275c22d739bf978 *man/SHAPBoostRegressor-class.Rd
+1c76b05aeaca5b87ae5ed986748385bb *man/SHAPBoostSurvival-class.Rd
