@@ -1,3 +1,7 @@
+# SHAPBoost 1.0.3
+## Bug Fixes
+* Fixed a bug where R² metric was not being correctly maximized in SHAPBoostRegressor.
+
 # SHAPBoost 1.0.2
 ## New Features
 * Added `fixed_variables` parameter to SHAPBoostRegressor and SHAPBoostSurvival

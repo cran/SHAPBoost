@@ -249,7 +249,7 @@ SHAPBoostEstimator <- setRefClass(
             if (identical(metric, "mae") || identical(metric, "mse") || identical(metric, "logloss")) {
                 best_metric <- Inf
             } else {
-                best_metric <- 0
+                best_metric <- -Inf
             }
 
             for (comb_index in seq_along(combs)) {
